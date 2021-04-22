@@ -1,16 +1,33 @@
 li {
     display: inline;
+    padding-right: 24px;
+}
+a {
+    text-transform:uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
 }
 .menu {
     float:right;
-    text-transform:uppercase
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
 }
 .header {
     background-color: rgb(169 169 169 / 60%);
+    height: 60px;
 }
 .logo {
-    display: inline;
-    font-family: fantasy;
+    display:inline-block;
+    font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
-    color: #dc1717;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 48px;
+
 }
